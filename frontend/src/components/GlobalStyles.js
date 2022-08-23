@@ -56,6 +56,7 @@ export default createGlobalStyle`
     font-family: var(--font-family);
     background-color: var(--background-color-button);
     color: var(--color-font);
+    border: none;
     text-align: center;
   }
 
